@@ -4,7 +4,7 @@ function Navbar() {
       
       {/* LOGO / NAME */}
       <h1 className="text-2xl font-bold tracking-wide">
-        My Profile
+        My Portfolio
       </h1>
 
       {/* NAV LINKS */}

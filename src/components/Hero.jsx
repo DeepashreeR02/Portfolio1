@@ -14,7 +14,7 @@ function Hero() {
           </h1>
 
           <p className="text-lg text-gray-400 mb-6">
-            AI / ML Enthusiast 🚀 | Java Full Stack Developer 💻  
+            Learner | Aspiring Data Analyst | AIML  
             Passionate about building intelligent and scalable applications.
           </p>
 
